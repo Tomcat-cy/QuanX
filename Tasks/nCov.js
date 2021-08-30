@@ -3,6 +3,7 @@
  *  API来自 http://api.tianapi.com/txapi/ncov/
  *  @author: Peng-YM
  *  感谢 @Mazetsz 提供腾讯API接口Token
+ 
  *  更新地址: https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/nCov.js
  */
 
