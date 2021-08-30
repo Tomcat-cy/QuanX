@@ -8,7 +8,7 @@
 
 const $ = API("nCov");
 
-const key = "NOUBZ-7BNHD-SZ64A-HUWCW-YBGZ7-DDBNK";
+const key = "d557d60eeebe9fa695424a6e3930a8fd";
 const headers = {
     "User-Agent":
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.141 Safari/537.36",
